@@ -203,7 +203,7 @@ class Command
      *
      * @return int The command exit code
      *
-     * @throws ExceptionInterface
+     * @throws \Exception
      *
      * @see setCode()
      * @see execute()
